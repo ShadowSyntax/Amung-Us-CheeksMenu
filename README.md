@@ -33,10 +33,12 @@ Launch the game — the menu will load automatically
 
 
 Usage
-ActionKeyOpen / Close MenuDELNavigate tabsClick the tab names on the 
-leftToggle a featureClick the toggle buttonBind a hotkeyClick + Bind next to any feature, 
-then press a keyDrag windowsClick and drag the title bar of any floating window
 
+ActionKeyOpen / Close Menu "DEL"
+
+Navigate tabs Click the tab names on the leftToggle
+
+Scroll wheel in tabs for all options
 
 
 Notes
