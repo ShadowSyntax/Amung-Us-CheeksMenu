@@ -25,6 +25,8 @@ Run the game once and close it — BepInEx will generate its folder structure in
 
 Step 2 — Install CheeksMenu
 
+Download the latest release 
+
 Copy CheeksMenu.dll into:
 
    Among Us\BepInEx\plugins\
