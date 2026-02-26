@@ -1,0 +1,89 @@
+# CheeksMenu Features
+
+## 🎮 Player
+| Feature | Description |
+|---|---|
+| NoClip | Walk through walls |
+| SpeedHack | 2x movement speed |
+| **Teleport** → to Cursor | Right-click to teleport to cursor position |
+| **Teleport** → to Player | Teleport to a selected player |
+
+## 👁️ ESP
+| Feature | Description |
+|---|---|
+| See Roles | See every player's role above their head |
+| See Ghosts | See dead players/ghosts |
+| No Shadows | Full brightness, no fog of war |
+| Reveal Votes | See who voted for who during meetings |
+| **Camera** → Zoom Out | Zoomed out camera view |
+| **Camera** → Spectate | Follow another player's perspective |
+| **Camera** → Freecam | Free-moving camera anywhere on the map |
+| **Tracers** → Crewmates | Lines pointing to all crewmates |
+| **Tracers** → Impostors | Lines pointing to all impostors |
+| **Tracers** → Ghosts | Lines pointing to dead players |
+| **Tracers** → Dead Bodies | Lines pointing to unreported bodies |
+| **Tracers** → Color-based | Tracers colored by player color |
+| **Minimap** → Show Minimap | Live minimap overlay |
+| **Minimap** → Crewmates | Show crewmates on minimap |
+| **Minimap** → Impostors | Show impostors on minimap |
+| **Minimap** → Ghosts | Show ghosts on minimap |
+| **Minimap** → Color-based | Minimap dots colored by player color |
+
+## 🎭 Roles
+| Feature | Description |
+|---|---|
+| **Impostor** → Kill Reach | Extended kill range |
+| **Shapeshifter** → No SS Animation | Skip the shapeshift morph animation |
+| **Shapeshifter** → Endless SS Duration | Stay shifted forever, timer never expires |
+| **Crewmate** → Complete My Tasks | Instantly complete all your tasks |
+| **Tracker** → Endless Tracking | Tracking ability never expires |
+| **Tracker** → No Track Delay | No delay before tracking activates |
+| **Tracker** → No Track Cooldown | Tracking ability always ready |
+| **Engineer** → Endless Vent Time | Stay in vents forever |
+| **Engineer** → No Vent Cooldown | Vent ability always ready |
+| **Scientist** → Endless Battery | Vitals battery never drains |
+| **Scientist** → No Vitals Cooldown | Vitals always accessible |
+
+## 🚢 Ship
+| Feature | Description |
+|---|---|
+| Unfixable Lights | Lights sabotage cannot be fixed |
+| Report Body | Report any dead body from anywhere |
+| Close Meeting | Instantly end the current meeting |
+| **Sabotage** → Reactor | Trigger reactor meltdown |
+| **Sabotage** → Oxygen | Trigger O2 sabotage |
+| **Sabotage** → Lights | Trigger lights sabotage |
+| **Sabotage** → Comms | Trigger comms sabotage |
+| **Sabotage** → Doors | Trigger door sabotage |
+| **Sabotage** → MushroomMixup | Trigger mushroom mixup sabotage |
+| **Vents** → Unlock Vents | Use vents as any role |
+| **Vents** → Kick All From Vents | Boot everyone out of vents |
+| **Vents** → Walk In Vents | Move freely while inside a vent |
+
+## 💬 Chat
+| Feature | Description |
+|---|---|
+| Enable Chat | Chat during any game phase |
+| Unlock Textbox | Remove character limits in chat |
+
+## 👑 Host-Only
+| Feature | Description |
+|---|---|
+| Kill Anyone | Kill any player regardless of role |
+| No Kill Cooldown | Kill cooldown is always zero |
+| Set Self Impostor | Force yourself to be Impostor next game |
+| Set Self Shapeshifter | Force yourself to be Shapeshifter next game |
+| Set Self Viper | Force yourself to be Viper next game |
+| Set Other Player Role | Pick a player and assign them a role next game |
+
+## 🎭 Spoofing
+| Feature | Description |
+|---|---|
+| Spoof Level | Display any level (0 – 4,294,967,295) |
+| Spoof Platform | Appear as any platform (PC, Console, Mobile, etc.) |
+
+## Passive
+| Feature | Description |
+|---|---|
+| Unlock All | Unlocks all cosmetic items in the game |
+| AnitBan | Speaks for itself |
