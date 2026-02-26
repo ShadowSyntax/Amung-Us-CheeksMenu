@@ -10,7 +10,7 @@ BepInEx 6 (IL2CPP build)
 Installation
 Step 1 — Install BepInEx
 
-Download BepInEx 6 IL2CPP from the BepInEx releases page
+Download BepInEx 6 IL2CPP from the BepInEx releases page: https://github.com/BepInEx/BepInEx
 
 You want the file named something like BepInEx_il2cpp_win_x64_6.x.x.zip
 
