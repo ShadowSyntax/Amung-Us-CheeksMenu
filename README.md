@@ -50,3 +50,7 @@ The minimap and player picker windows are draggable — position them wherever y
 
 
 CheeksMenu by BootyCheekClappa
+<img width="626" height="428" alt="2" src="https://github.com/user-attachments/assets/bf4b2baa-e99d-47f6-8834-3069bbf8b8aa" />
+<img width="625" height="428" alt="3" src="https://github.com/user-attachments/assets/d8b8ce1a-68c7-4a33-a7de-b6249688c2a6" />
+<img width="624" height="427" alt="4" src="https://github.com/user-attachments/assets/571dee2c-c800-4136-835a-cbb01c2d6a29" />
+<img width="786" height="889" alt="1" src="https://github.com/user-attachments/assets/0911ce95-8067-4756-90dd-d3a2e484b577" />
